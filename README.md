@@ -1,6 +1,5 @@
  # CollegeDatabase
-C Add one new record to each table.ollege Database designed in MySQL for Introduction to Databases module - first assessment
-Delete one record from all tables.
+College DataBase designed in MySQL for Introduction to Databases module - first assessment
 
 Functions:  
 

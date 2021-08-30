@@ -1,5 +1,5 @@
  # CollegeDatabase
-College DataBase project designed in MySQL for Introduction to Databases module - first assessment
+College Database project designed in MySQL for Introduction to Databases module - first assessment
 
 Functions:  
 
